@@ -10,7 +10,7 @@ For running program
     Only click net.bat and wait, it will close automaticly
     
 *** IMORTANT
-If you saw a file called Debug.log it deleted at the next time you run net.bat
+If you saw a file called Debug.log it will be deleted at the next time you run net.bat
 
 
 Optional:
