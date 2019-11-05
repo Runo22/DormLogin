@@ -19,6 +19,6 @@ If you put files not in the Desktop or your pc username is not user:
   Update bat file with right click and edit 
 
 Installing Selenium Libary
-   open cmd
-   type ==) pip install selenium
+  open cmd
+  type ==) pip install selenium
 
