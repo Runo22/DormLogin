@@ -11,7 +11,8 @@ For running program
     
 *** IMORTANT
 If you saw a file called Debug.log it will be deleted at the next time you run net.bat
-
+*** IMORTANT
+If code doesn't work download the latest web driver: https://sites.google.com/a/chromium.org/chromedriver/downloads
 
 Optional:
 
